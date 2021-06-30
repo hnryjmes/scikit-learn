@@ -1,1 +1,1 @@
-# sklearn-getting-started
+# scikit-learn
